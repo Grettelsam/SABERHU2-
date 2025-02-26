@@ -1,0 +1,33 @@
+{
+    "theme_color": "#00f7ff",
+    "background_color": "#00f7ff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "http://localhost/SaberHU2-/index.html",
+    "name": "Sistema de control de asistencias",
+    "short_name": "Asistencias",
+    "description": "Creado por Cigladi, Grettel, Edgar",
+    "icons": [
+      {
+        "src": "empresa.jpg",
+        "sizes": "192x192",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "empresa.jpg",
+        "sizes": "310x150",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "empresa.jpg",
+        "sizes": "256x256",
+        "type": "image/jpeg"
+      },
+      {
+        "src": "empresa.jpg",
+        "sizes": "512x512",
+        "type": "image/jpeg"
+      }
+    ]
+  }
+  
